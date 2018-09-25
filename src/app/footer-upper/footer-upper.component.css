@@ -1,0 +1,21 @@
+.footer-upper {
+  background-color: lightgray;
+  padding-top: 20px;
+}
+.footer-text {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+.footer-text,
+.footer-text a:link,
+.footer-text a:visited {
+  color: black;
+}
+.fa-facebook-official {
+  color: #3B5998;
+}
+.logo-wghf {
+  width: 127px;
+}
+.logo-hra {
+  width: 140px;
+}

@@ -1,0 +1,12 @@
+.footer-lower {
+  color: white;
+  background-color: #954838;
+  padding: 10px;
+}
+.footer-text-lower {
+  font-family: 'Open Sans', sans-serif;
+}
+.rick,
+.rick:hover {
+  color: inherit;
+}

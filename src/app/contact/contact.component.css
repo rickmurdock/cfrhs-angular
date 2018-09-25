@@ -1,0 +1,41 @@
+p,
+.order-link,
+.links-li {
+  font: 1.1em 'Open Sans', sans-serif;
+}
+.page-title,
+.page-title-membership,
+.page-title-newsletter {
+  font: 600 2em 'Open Sans', sans-serif;
+  padding: 12px;
+  margin: 0 !important;
+}
+.page-title-links {
+  text-shadow: 2px 2px 4px #FFFFFF;
+}
+.page-title-membership,
+.page-intro-membership,
+.membership-form,
+.page-title-newsletter,
+.page-intro-newsletter {
+  background-color: white;
+  margin-left: 15px !important;
+  margin-right: 15px !important;
+  border-radius: 5px 5px 0 0;
+}
+.page-intro-membership,
+.page-intro-newsletter {
+  padding: 0 20px 20px 20px;
+  border-radius: 0 0 5px 5px;
+}
+.membership-container,
+.newsletter-container {
+  opacity: .9;
+  padding-bottom: 30px;
+}
+.pdf {
+  color: red;
+}
+.img-station {
+  width: 100%;
+}
