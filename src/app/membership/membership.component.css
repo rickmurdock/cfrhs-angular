@@ -1,0 +1,67 @@
+p,
+.order-link,
+.links-li {
+  font: 1.1em 'Open Sans', sans-serif;
+}
+.page-title,
+.page-title-membership,
+.page-title-newsletter {
+  font: 600 2em 'Open Sans', sans-serif;
+  padding: 12px;
+  margin: 0 !important;
+}
+.page-title-links {
+  text-shadow: 2px 2px 4px #FFFFFF;
+}
+.page-title-membership,
+.page-intro-membership,
+.membership-form,
+.page-title-newsletter,
+.page-intro-newsletter {
+  background-color: white;
+  margin-left: 15px !important;
+  margin-right: 15px !important;
+  border-radius: 5px 5px 0 0;
+}
+.page-intro-membership,
+.page-intro-newsletter {
+  padding: 0 20px 20px 20px;
+  border-radius: 0 0 5px 5px;
+}
+.membership-container,
+.newsletter-container {
+  opacity: .9;
+  padding-bottom: 30px;
+}
+.pdf {
+  color: red;
+}
+.membership-page {
+  width: 100%;
+  background-size: cover;
+  background-image: url('../../assets/images/T&GPicnic.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.member-card-header {
+  background-color: #954838;
+  padding: 15px;
+  color: white;
+  opacity: 1 !important;
+}
+.member-card-title {
+  color: white;
+  font-size: 1.5em;
+}
+.member-card-footer {
+  color: #954838;
+  font-size: 1.5em;
+}
+.membership-form {
+  padding: 15px;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 0;
+  border-radius: 5px;
+}

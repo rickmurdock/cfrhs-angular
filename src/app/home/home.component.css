@@ -1,0 +1,35 @@
+.img-depot {
+  width: 800px;
+}
+.calendar {
+  padding: 15px;
+  text-align: center;
+}
+.mission,
+.meetings {
+  margin-top: 15px;
+}
+/************************************/
+/***            Tablet            ***/
+/************************************/
+@media screen and (min-width: 545px) {
+  .mission,
+  .meetings {
+    margin-top: 30px;
+  }
+  .calendar {
+    padding: 20px;
+  }
+}
+/************************************/
+/**            Desktop            ***/
+/************************************/
+@media screen and (min-width: 769px) {
+  .mission,
+  .meetings {
+    margin-top: 50px;
+  }
+  .calendar {
+    padding: 30px;
+  }
+}
