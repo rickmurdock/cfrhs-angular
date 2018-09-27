@@ -1,0 +1,63 @@
+p,
+.order-link,
+.links-li {
+  font: 1.1em 'Open Sans', sans-serif;
+}
+.page-title,
+.page-title-membership,
+.page-title-newsletter {
+  font: 600 2em 'Open Sans', sans-serif;
+  padding: 12px;
+  margin: 0 !important;
+}
+.page-title-links {
+  text-shadow: 2px 2px 4px #FFFFFF;
+}
+.page-title-membership,
+.page-intro-membership,
+.membership-form,
+.page-title-newsletter,
+.page-intro-newsletter {
+  background-color: white;
+  margin-left: 15px !important;
+  margin-right: 15px !important;
+  border-radius: 5px 5px 0 0;
+}
+.page-intro-membership,
+.page-intro-newsletter {
+  padding: 0 20px 20px 20px;
+  border-radius: 0 0 5px 5px;
+}
+.membership-container,
+.newsletter-container {
+  opacity: .9;
+  padding-bottom: 30px;
+}
+.pdf {
+  color: red;
+}
+.parallax {
+  background-image: url(../../assets/images/SteamRun.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 100%;
+  position: relative;
+  margin: 30px 0;
+}
+.museum-history-title {
+  font: 600 45px 'Open Sans', sans-serif;
+  color: white;
+  position: relative;
+  top: 100px;
+  text-align: center;
+  text-shadow: 2px 2px 4px #000000;
+}
+.img-caboose {
+  padding: 20px;
+}
+.img-plaque {
+  padding: 20px 30px 20px 0;
+}
