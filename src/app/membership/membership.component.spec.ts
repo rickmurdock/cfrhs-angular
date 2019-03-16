@@ -1,6 +1,7 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { MembershipComponent } from './membership.component';
+import { MembershipService } from './membership.service';
 
 describe('MembershipComponent', () => {
   let component: MembershipComponent;
@@ -8,7 +9,8 @@ describe('MembershipComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ MembershipComponent ]
+      declarations: [ MembershipComponent ],
+      providers: [MembershipService]
     })
     .compileComponents();
   }));
